@@ -87,11 +87,11 @@ ats-resume-optimizer/
 ├── requirements.txt
 ├── Dockerfile
 ├── README.md
-tests/
-├── __init__.py
-├── test_experience.py
-├── test_keyword.py
-├── test_scoring.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_experience.py
+│   ├── test_keyword.py
+│   ├── test_scoring.py
 ```
 
 ---
