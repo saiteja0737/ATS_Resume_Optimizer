@@ -1981,5 +1981,5 @@ if __name__ == '__main__':
     ui.launch(
         theme=gr.themes.Soft(),
         server_name="0.0.0.0",
-        server_port=7861
+        server_port=7860
     )
