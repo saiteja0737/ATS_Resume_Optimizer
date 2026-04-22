@@ -83,11 +83,14 @@ docker run -p 7860:7860 \
 
 ```
 ats-resume-optimizer/
-├── app.py              # Main application
-├── requirements.txt    # Dependencies
-├── Dockerfile          # Container config
-├── README.md           # This file
-└── tests/              # 52 pytest tests
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── README.md
+├── tests/
+│   ├── test_experience.py
+│   ├── test_keyword.py
+│   ├── test_scoring.py
 ```
 
 ---
